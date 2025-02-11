@@ -12,12 +12,12 @@ try:
     print("First 5 rows:\n", df.head())
     print("Dataset shape:", df.shape)
 except FileNotFoundError:
-    print(f"❌ File not found: {file_name}")
+    print(f" File not found: {file_name}")
     exit()
 
 # Check if dataset is empty
 if df.empty:
-    print("❌ The dataset is empty!")
+    print(" The dataset is empty!")
     exit()
 
 
