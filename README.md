@@ -14,10 +14,10 @@ Using **unsupervised learning** to cluster a collection of songs based on their 
   - `scikit-learn` – Clustering algorithms (K-Means)
 
 ## 🎵 Dataset: FMA (Free Music Archive)
-We used the **FMA dataset**, a publicly available collection of music tracks, for this project. The dataset is stored in the `music_data/` directory.
+**FMA dataset**, a publicly available collection of music tracks, for this project. The dataset is stored in the `music_data/` directory.
 
 ## 🎼 Extracted Audio Features
-We extract the following **key audio features** from each song:
+extract the following **key audio features** from each song:
 1. **MFCC (Mel-Frequency Cepstral Coefficients):** Represents how humans perceive sound.
 2. **Spectral Contrast:** Measures the difference between peaks and valleys in the frequency spectrum.
 3. **Chroma Features:** Represents musical notes and harmonic content.
