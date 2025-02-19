@@ -2,7 +2,7 @@
 
 Overview
 
-Using **unsupervised learning** to cluster a collection of songs based on their extracted audio features. The goal is to analyze and group similar music pieces without predefined labels using **machine learning**.
+Using **unsupervised learning** to cluster a collection of songs based on their extracted audio features. The goal is to analyze and group similar music pieces without predefined labels using **machine learning.**
 
 ## Technologies Used
 - **Python** (Programming Language)
